@@ -1,4 +1,4 @@
-# svg_Chinese_transfer
+# svg_Chinese_transfer_powerbi
 一个将svg文件中的中文转换为power bi可识别的编码的工具，适用于自定义地图(地理、非地理均可)
 
 此工具为excel工具，使用VBA进行编程，可实现在synoptic.design网站里制作好svg文件后对里面的中文字符转换为十六进制编码，以此使得power bi能识别到
